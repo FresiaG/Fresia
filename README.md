@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FresiaG
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python Programming.
+- 🌱 I’m currently learning Data Analytics.
 - 📫 You can reach me @fresiagitau@yahoo.com | @fresiawgitau@gmail.com | https://linkedin.com/in/fresia-gitau-m-s-06a49579.
 
 <!---
